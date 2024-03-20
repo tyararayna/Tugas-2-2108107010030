@@ -16,6 +16,7 @@ Pada tugas ini, dilakukan 2 proses yaitu klasifikasi dan regresi. Proses klasifi
 Klasifikasi : https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 menggunakan SVC (Support Vector Classifier). 
 Dataset berkaitan tentang klasifikasi penyakit diabetes. 
+
 Fitur : 
 - age
 - gender
@@ -31,6 +32,7 @@ Label :
 Regresi : https://www.kaggle.com/datasets/mrsimple07/laptoppriceprediction/data
 menggunakan SVR (Support Vector Regression).
 Dataset yang digunakan tentang prediksi harga laptop.
+
 Fitur :
 - brand
 - processor speed
