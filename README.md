@@ -26,6 +26,7 @@ Fitur :
 - smoking history
 - HbA1c level
 - blood glucose level.
+
 Label :
 - diabetes : positive or negative
 
@@ -40,5 +41,6 @@ Fitur :
 - storage capacity
 - screen size
 - weight.
+
 Label :
 - Price 
