@@ -1,4 +1,4 @@
-# Tugas-2-2108107010030
+# Tugas-2-2108107010030-Tyara Raynasari
 
 Pada tugas ini, dilakukan 2 proses yaitu klasifikasi dan regresi. Proses klasifikasi ini untuk mengelompokkan data diabetes. Proses regresi adalah untuk memprediksi harga laptop berdasarkan storage nya. 
 
